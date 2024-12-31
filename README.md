@@ -42,8 +42,7 @@ MD Rifat Islam
 Md Tausiful Haque
 
 
-### For detailed SRS, Evaluation report, and Poster presentation:
-https://drive.google.com/drive/folders/14gCObKJ2Yv035-dUbye9Di-Sf9uKWvCA
+### For detailed SRS, Evaluation report, and Poster presentation: https://drive.google.com/drive/folders/14gCObKJ2Yv035-dUbye9Di-Sf9uKWvCA
 
 ### For business collaborations:
 Email: nurshatfateh@gmail.com
