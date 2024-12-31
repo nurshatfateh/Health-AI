@@ -23,6 +23,7 @@
 5.2. SOS module to find the closest hospital and to send the current location to that hospital for an ambulance service in an emergency situation.
 
 ### Tools used: 
+
 Frontend: Flutter
 
 Database: Firebase
