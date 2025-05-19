@@ -1,7 +1,7 @@
 # Health AI: A Personal Healthcare Companion App
 ### Watch the Demo on YouTube: https://www.youtube.com/watch?v=9GncLviu-2Y
 
-### Note: This project is affiliated with "Microsoft for Startups Founders Hub," where it has gained access to a total of $6,000 (in 2 rounds) of Azure credits and $2,500 of OpenAI credits, along with other technical benefits and business resources.
+### Note: This project is affiliated with "Microsoft for Startups Founders Hub," where it has gained access to a total of $6,000 Azure credits in 2 rounds and $2,500 OpenAI credits, along with other technical benefits and business resources.
 ![image](https://github.com/user-attachments/assets/e08cb9ca-6160-4635-8b40-df9607bcd6ea)
 
 ### Features: 
